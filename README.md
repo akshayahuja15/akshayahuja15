@@ -1,156 +1,278 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Akshay%20Ahuja&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=55&stroke=58a6ff&strokeWidth=1.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=Hey%2C%20I'm%20Akshay%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Product%20Builder&descAlignY=62&descSize=17&descColor=a8b2d8" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+products+people+love+%F0%9F%92%99;React+%7C+Node.js+%7C+Python+%7C+YOLOv8;Open+to+exciting+opportunities+%F0%9F%91%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=750&lines=I+build+things+for+the+web+and+beyond+%F0%9F%8C%90;Turning+ideas+into+scalable+products+%F0%9F%9A%80;Full+Stack+%2B+AI+%3D+Dangerous+Combo+%F0%9F%A4%96%F0%9F%94%A5;6%2B+years+of+shipping+real+software+%E2%9C%85)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshayahuja15/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-%2314a800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayahuja15@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshayahuja15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshayahuja15/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Hire%20Me-%2314a800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayahuja15@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-%23f0db4f?style=for-the-badge&logo=readme&logoColor=black)](#)
+
+<br/>
+
+![](https://img.shields.io/badge/Experience-6%2B%20Years-%2364ffda?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Projects-25%2B%20Shipped-%23ff6b6b?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Stack-Full%20Stack%20%2B%20AI-%23a855f7?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Status-Open%20to%20Work-%233fb950?style=flat-square&labelColor=0d1117)
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 🧬 About Me
 
-### 🧠 Who Am I?
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-```javascript
-const akshay = {
-  role     : "Full Stack Developer & AI/ML Engineer",
-  location : "India 🇮🇳",
-  focus    : ["Web Apps", "AI Systems", "Clean Code"],
-  stack    : ["MERN", "Python", "Flask", "YOLOv8"],
-  currently: "Building AI-powered products",
-  goal     : "Craft software that makes a difference",
-  fun_fact : "I debug with console.log and I'm proud of it 😄"
-}
+```typescript
+const akshay: Developer = {
+  name       : "Akshay Ahuja",
+  location   : "India 🇮🇳",
+  experience : "6+ years building products",
+
+  expertise  : [
+    "Full Stack Web Development",
+    "AI / ML Engineering",
+    "Computer Vision Systems",
+    "REST & GraphQL APIs",
+    "Cloud Architecture",
+  ],
+
+  currentlyOn: "Building AI-powered SaaS",
+  available  : true,
+  contact    : "akshayahuja15@gmail.com",
+};
 ```
+
+> *"I don't just write code — I architect solutions, ship products, and solve real problems."*
 
 <br clear="right"/>
 
 ---
 
-### 🔥 What I Build
+## 🏗️ Featured Projects
 
 <div align="center">
 
-| 🏥 Healthcare AI | 🍎 Computer Vision | 💼 Full Stack Apps |
-|:---:|:---:|:---:|
-| Expense Prediction System using ML | Fruit Disease Classification with YOLOv8 | MERN Job Portal with Auth & Dashboards |
-| `Python` `LightGBM` `Flask` | `OpenCV` `YOLOv8` `TensorFlow` | `MongoDB` `Express` `React` `Node` |
+### 🔬 AI & Machine Learning
 
-| 🎓 Campus Platform | 🛒 E-Commerce | 👁️ Image Processing |
-|:---:|:---:|:---:|
-| Complaint Management System | Full Shopping Experience | Real-time Detection Systems |
-| `MERN` `JWT` `REST API` | `React` `Node.js` `Stripe` | `OpenCV` `Python` `CV2` |
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏥 Healthcare Expense Predictor</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/LightGBM-%23FF9900?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Flask-%23000?style=flat-square&logo=flask&logoColor=white"/>
+      </p>
+      <p align="center">ML model predicting patient healthcare costs with high accuracy. Built end-to-end pipeline from data preprocessing to Flask API deployment.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Accuracy-94%25-%233fb950?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Type-Regression%20Model-%2358a6ff?style=flat-square&labelColor=0d1117"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🍎 Fruit Disease Classifier</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/YOLOv8-%23FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      </p>
+      <p align="center">Real-time fruit detection and disease classification framework using custom-trained YOLOv8 model with live camera feed support.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Real--time-30fps-%233fb950?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Model-YOLOv8%20Custom-%23f78166?style=flat-square&labelColor=0d1117"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🌐 Full Stack Applications
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">💼 MERN Job Portal</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=61dafb"/>
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+      <p align="center">Full-featured job board with employer/candidate dashboards, JWT auth, resume upload, and real-time notifications.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🎓 Campus Complaint System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MERN-%2320232a?style=flat-square"/>
+        <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/>
+        <img src="https://img.shields.io/badge/REST%20API-%23FF6C37?style=flat-square"/>
+      </p>
+      <p align="center">End-to-end complaint management platform for institutions with role-based access, tracking, and admin analytics dashboard.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🛒 E-Commerce Platform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=61dafb"/>
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-%23635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+      </p>
+      <p align="center">Complete shopping experience with cart, wishlist, payment integration, order tracking, and seller dashboard.</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-### ⚡ Tech Arsenal
+## ⚙️ Tech Stack
 
 <div align="center">
 
-**🌐 Frontend & UI**
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vue&perline=7" />
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+**Frontend**
 
-**⚙️ Backend & APIs**
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,php,graphql&perline=7" />
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+**Backend**
 
-**🗄️ Databases**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis,prisma,sqlite&perline=7" />
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+**Databases**
 
-**🤖 AI / ML**
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&perline=5" />
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+**AI / ML**
 
-**☁️ Cloud & Tools**
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,postman&perline=7" />
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+**Cloud & DevOps**
 
 </div>
 
 ---
 
-### 🌱 Currently Leveling Up
+## 🚀 Currently Leveling Up
 
 <div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/>
+      <b>AI / LLM</b><br/>
+      <img src="https://img.shields.io/badge/Progress-75%25-64ffda?style=flat-square&labelColor=0d1117"/>
+      <br/><sub>LangChain · RAG · Agents · OpenAI</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
+      <b>DevOps</b><br/>
+      <img src="https://img.shields.io/badge/Progress-50%25-f78166?style=flat-square&labelColor=0d1117"/>
+      <br/><sub>Docker · CI/CD · AWS · Nginx</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/>
+      <b>System Design</b><br/>
+      <img src="https://img.shields.io/badge/Progress-60%25-3fb950?style=flat-square&labelColor=0d1117"/>
+      <br/><sub>Microservices · Caching · Queues</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://skillicons.dev/icons?i=solidity" width="48"/><br/>
+      <b>Web3</b><br/>
+      <img src="https://img.shields.io/badge/Progress-30%25-d29922?style=flat-square&labelColor=0d1117"/>
+      <br/><sub>Solidity · Smart Contracts · dApps</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ```
-🔷  Advanced AI / LLM Integrations     ████████████░░░░  75%
-🔷  Cloud Architecture & DevOps        ████████░░░░░░░░  50%
-🔷  System Design & Scalability        ██████████░░░░░░  60%
-🔷  Web3 & Blockchain Fundamentals     █████░░░░░░░░░░░  30%
+╔══════════════════════════════════════════════════════════════╗
+║                   🎯 CURRENT FOCUS AREAS                    ║
+╠══════════════════════════════════════════════════════════════╣
+║  🤖  AI / LLM Integrations    ██████████████░░░░  75%       ║
+║  ☁️   Cloud & DevOps           ████████████░░░░░░  50%       ║
+║  🏗️   System Design            █████████████░░░░░  60%       ║
+║  ⛓️   Web3 Fundamentals        ████████░░░░░░░░░░  30%       ║
+║  📱  React Native / Mobile    ██████████░░░░░░░░  45%       ║
+║  🔐  Auth & Security          ████████████████░░  80%       ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
+<br/>
 
----
+| 🔨 Building | 📖 Learning | 🎯 Next Goal |
+|:---:|:---:|:---:|
+| AI-powered SaaS products | LangChain & Vector DBs | Deploy a production-grade AI app |
+| Scalable REST & GraphQL APIs | Kubernetes & containers | AWS Solutions Architect cert |
+| Real-time Computer Vision apps | Web3 smart contracts | Launch an open-source project |
 
-### 🏆 Trophies
+<br/>
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=akshayahuja15&theme=tokyonight&no-frame=true&margin-w=8&column=7)
-
-</div>
-
----
-
-### 💬 Ask Me About
-
-<div align="center">
-
-`React` · `Node.js` · `REST APIs` · `MongoDB` · `Computer Vision` · `YOLOv8` · `System Design` · `Full Stack Architecture` · `ML Pipelines` · `Flask APIs`
+![Learning](https://img.shields.io/badge/🧠%20Learning-LangChain-64ffda?style=for-the-badge&labelColor=0d1117)
+![Building](https://img.shields.io/badge/🔨%20Building-AI%20SaaS-3fb950?style=for-the-badge&labelColor=0d1117)
+![Next](https://img.shields.io/badge/🎯%20Next-AWS%20Cert-f78166?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/👀%20Status-Open%20to%20Work-d29922?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 ---
 
+## 💬 Ask Me About
+
 <div align="center">
 
-### 🤝 Let's Build Something Together
+`React` · `Node.js` · `REST APIs` · `MongoDB` · `Computer Vision` · `YOLOv8` · `System Design` · `Full Stack Architecture` · `ML Pipelines` · `Flask APIs` · `JWT Auth` · `MERN Stack`
 
-*I'm always open to interesting projects, collaborations, and new opportunities.*
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshayahuja15/)
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/akshayahuja15/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48"/><br/>
+        <b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:akshayahuja15@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="48"/><br/>
+        <b>Email</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>
+        <b>Portfolio</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/akshayahuja15">
+        <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
+        <b>GitHub</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+> 💡 *I'm always open to exciting roles, interesting projects, and great conversations.*
+> **Let's build something amazing together.**
 
 <br/>
 
@@ -158,6 +280,6 @@ const akshay = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%"/>
 
 </div>
